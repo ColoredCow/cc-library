@@ -1,0 +1,14 @@
+{
+    "name": "coloredcow/books",
+    "description": "A way to find book info from a image",
+    "minimum-stability": "dev",
+    "require": {
+        "jordikroon/google-vision": "1.7"
+    },
+    "authors": [
+        {
+            "name": "panakj-ag",
+            "email": "pankaj@coloredcow.in"
+        }
+    ]
+}
