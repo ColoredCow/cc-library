@@ -2,6 +2,10 @@
     "name": "coloredcow/books",
     "description": "A way to find book info from a image",
     "minimum-stability": "stable",
+    "keywords": ["books", "coloredcow"],
+    "license": "MIT",
+    "type": "project",
+    
     "require": {
         "jordikroon/google-vision": "1.7"
     },
