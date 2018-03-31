@@ -1,7 +1,7 @@
 {
     "name": "coloredcow/books",
     "description": "A way to find book info from a image",
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
         "jordikroon/google-vision": "1.7"
     },
